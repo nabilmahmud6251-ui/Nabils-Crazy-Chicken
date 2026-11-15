@@ -1,7 +1,8 @@
+
 {
   "id": "./",
   "name": "Nabil's Crazy Chicken",
-  "short_name": "Nabil's Chicken",
+  "short_name": "Crazy Chicken",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -17,3 +18,4 @@
     }
   ]
 }
+
